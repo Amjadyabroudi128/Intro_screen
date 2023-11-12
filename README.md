@@ -1,17 +1,2 @@
-# onboardscreen
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Intro_screen" 
+this is an intro screen that can be added to a bigger project 
+![Screenshot 2023-11-12 002857](https://github.com/Amjadyabroudi128/Intro_screen/assets/61939508/9380523c-b433-4b4a-a4fe-b8868af937c8)
