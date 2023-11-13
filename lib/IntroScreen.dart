@@ -15,17 +15,17 @@ class IntroScreen extends StatelessWidget {
             pages: [
               PageViewModel(
                 image: Image.network(
-                    'https://docs.flutter.dev/assets/images/dash/dash-fainting.gif'),
+                    'https://docs.flutter.dev/assets/images/dash/dash-fainting.gif', fit: BoxFit.cover,),
                 titleWidget: Text("Write something something here etc etc "),
                 body: "Write more things here to describe the page "
               ),
               PageViewModel(
-                image: Image.network('https://picsum.photos/250?image=9'),
+                image: Image.network('https://picsum.photos/250?image=9', fit: BoxFit.cover,height: 300 ,width: MediaQuery.of(context).size.width),
                   titleWidget: Text("Write something something here etc etc "),
                   body: "Write more things here to describe the page "
               ),
               PageViewModel(
-                image: Image.network('https://picsum.photos/250?image=9'),
+                image: Image.network('https://picsum.photos/250?image=9', fit: BoxFit.cover,height: 300 ,width: MediaQuery.of(context).size.width),
                   titleWidget: Text("Write something something here etc etc "),
                   body: "Write more things here to describe the page "
               ),
